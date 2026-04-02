@@ -46,7 +46,11 @@
 
 * 과제1 코드의 실행 스크린샷
 
-![과제1 실행화면](1차과제2.png,제목없음.png)
+
+![과제1 실행화면]<img width="1728" height="1080" alt="제목 없음" src="https://github.com/user-attachments/assets/9c9870c3-c2dd-4eac-a34f-430ab5eb957c" />
+<img width="1728" height="1080" alt="1차과제 2" src="https://github.com/user-attachments/assets/3cc3bf5c-19d4-4ec8-a5b1-ac31e0a1d50c" />
+
+
 
 * 과제 내용
 
